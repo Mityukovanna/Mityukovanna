@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola👋
+- 🔭 Bioengineering student at The University of Sheffield
+- 👀 Python, SQL
+- 🌱 Exploring applications of ML in healthcare
+- 📫 mityukovanna@gmail.com
 
 <!--
 **Mityukovanna/Mityukovanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
