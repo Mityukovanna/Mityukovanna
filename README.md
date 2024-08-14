@@ -1,4 +1,4 @@
-## Hola👋
+## Hello👋
 - 🔭 Bioengineering student at The University of Sheffield
 - 👀 Python, SQL
 - 🌱 Exploring applications of ML in healthcare
